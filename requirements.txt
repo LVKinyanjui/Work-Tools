@@ -1,0 +1,2 @@
+selenium==4.23.0
+ipykernel==6.29.5
